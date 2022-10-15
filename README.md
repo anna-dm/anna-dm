@@ -1,10 +1,7 @@
  
 ### Hi there 👋 , I'm Anna Frolova
 
-<div align="center">
-<div style="width:100%;height:0;padding-bottom:105%;position:relative;"><iframe src="https://giphy.com/embed/3oKIPnAiaMCws8nOsE" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen>
-<a href="https://giphy.com/gifs/cat-kitten-computer-3oKIPnAiaMCws8nOsE">via GIPHY</a></div>
-</div>
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
