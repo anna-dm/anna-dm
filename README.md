@@ -2,7 +2,7 @@
 ### Hi there 👋 , I'm Anna Frolova
 
 <div align="center">
-  <img src="https://giphy.com/embed/3oKIPnAiaMCws8nOsE" width="457" height="480" frameBorder="0" class="giphy-embed" allowFullScreen><p><a href="https://giphy.com/gifs/cat-kitten-computer-3oKIPnAiaMCws8nOsE"></a></p>"/>
+  <img src="https://giphy.com/embed/l0Iy88cWKqBeBN92o" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen><a href="https://giphy.com/gifs/lego-l0Iy88cWKqBeBN92o"></a>>
 </div>
 ---
 
