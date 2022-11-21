@@ -1,6 +1,6 @@
  
  ### Hi there 👋 , I'm Anna Frolova
-<p> 🔭 I am a junior frontend developer</p>
+## 🔭 I am a junior frontend developer 
 <p> 🎯 Currently working on something interesting, improving my skills</p>
 <p>👯  Eager to work in a good team on a cool project</p>
 <p>🌱  I strive to make the code cleaner and the world a better place!</p>
