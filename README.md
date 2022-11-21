@@ -1,9 +1,9 @@
  
  ### Hi there 👋 , I'm Anna Frolova
 ## 🔭 I am a junior frontend developer 
-<p> 🎯 Currently working on something interesting, improving my skills</p>
-<p>👯  Eager to work in a good team on a cool project</p>
-<p>🌱  I strive to make the code cleaner and the world a better place!</p>
+## 🎯 Currently working on something interesting, improving my skills
+## Eager to work in a good team on a cool project
+## 🌱  I strive to make the code cleaner and the world a better place!
 <div align="center">
   <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="300" height="300"/>
 </div>
