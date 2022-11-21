@@ -1,5 +1,5 @@
  
- Hi there 👋 , I'm Anna Frolova
+ ### Hi there 👋 , I'm Anna Frolova
 <p>I am a junior frontend developer</p>
 <p>Currently working on something interesting, improving my skills</p>
 <p>Ready to study everything I don't know</p>
