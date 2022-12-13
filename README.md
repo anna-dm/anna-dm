@@ -1,5 +1,6 @@
  
  ## Hi there 👋 , I'm Anna Frolova
+ ![](https://komarev.com/ghpvc/?username=anna-dm)
 ### 🔭 I am a Junior Front-End Developer 
 ### 🎯 Currently working on something interesting, improving my skills
 ### 👯 Eager to work in a good team on a cool project
