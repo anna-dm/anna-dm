@@ -30,12 +30,11 @@
     <img align="center" alt="Venu @ Github" width="45px" src="https://cdn3.iconfinder.com/data/icons/social-rounded-2/72/GitHub-128.png" />&nbsp;
   </a>
   
-  <a href="telto:+79877511274" >
+  <a href="telto:+7-9877511274" >
     <img align="center" alt="Venu @ Mobile" width="45px" src="https://cdn0.iconfinder.com/data/icons/network-and-communication-1-2/128/3-128.png" />&nbsp;
   </a>
 </p>
 <div style="display: flex; flex-direction: row;">
- <img class="img" height:"120%" src="https://github-readme-stats.vercel.app/api?username=anna-dm&show_icons=true" />
  <img class="img" height:"150%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anna-dm&layout=compact" />
  </div>
   ---
