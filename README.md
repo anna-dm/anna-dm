@@ -10,7 +10,7 @@
 </div>
 
 ---
-  <p align = "center">
+  
 ### :hammer_and_wrench: Languages and Tools :
 <div>
 
@@ -22,6 +22,7 @@
   
   ---
   <i><h3 align="center">Contact/Connect:</h3></i>
+  <p align = "center">
   <a href="mailto:anna-anna-frolova@bk.ru">
     <img align="center" alt="Venugopal @ Mail" width="50px" src="https://cdn4.iconfinder.com/data/icons/buno-email/32/__email_address_contact-128.png" />&nbsp;
   </a>
