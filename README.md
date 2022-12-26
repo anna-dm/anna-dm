@@ -29,6 +29,9 @@
   
   ---
    ![github-contribution-grid-snake](https://user-images.githubusercontent.com/90142173/154796318-e529fdc7-2132-4ce7-8417-06b71cf02506.svg)
+   <img src="https://raw.githubusercontent.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/output/github-contribution-grid-snake-sissa-white.svg#gh-light-mode-only" alt="" />
+
+
   ---
    <i><h3 align="center">Contact/Connect:</h3></i>
   <p align = "center">
