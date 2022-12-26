@@ -1,5 +1,5 @@
  
- ## Hi there 🌝 , I'm Anna Frolova
+ ## I'm Anna Frolova😺 Nice to meet you👋
  ![](https://komarev.com/ghpvc/?username=anna-dm)
  
  ```javascript
