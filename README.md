@@ -1,10 +1,16 @@
  
  ## Hi there 🌝 , I'm Anna Frolova
  ![](https://komarev.com/ghpvc/?username=anna-dm)
-### 🔭 I am a Junior Front-End Developer 
-### 🎯 Currently working on something interesting, improving my skills
-### 👯 Eager to work in a good team on a cool project
-### 🌱 I strive to make the code cleaner and the world a better place!
+ // index.js
+[
+  '🌐 🔭 I am a Junior Front-End Developer',
+  '🎯 Currently working on something interesting, improving my skills,
+  "💛 Indefinite JavaScript enjoyer",
+  '👯 Eager to work in a good team on a cool project',
+  '🌱 I strive to make the code cleaner and the world a better place!',
+  "🎉 Open for collaborations!"
+].forEach((e) => { console.log(e) });
+
 <div align="center">
   <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="300" height="300"/>
 </div>
