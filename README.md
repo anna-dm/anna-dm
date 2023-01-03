@@ -5,12 +5,11 @@
  ```javascript
 // index.js
 [
-  '🌐 🔭 I am a Junior Front-End Developer',
+  '💻 I am a Junior Front-End Developer',
   '🎯 Currently working on something interesting, improving my skills',
-  "💛 Indefinite JavaScript enjoyer",
+  '💛 Indefinite JavaScript enjoyer',
   '👯 Eager to work in a good team on a cool project',
   '🌱 I strive to make the code cleaner and the world a better place!',
-  "🎉 Open for collaborations!"
 ].forEach((e) => { console.log(e) });
 ```
 <hr>
