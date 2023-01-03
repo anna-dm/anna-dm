@@ -16,7 +16,7 @@
 <hr>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="300" height="300"/>
+  <img width="150px" align="left" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="300" height="300"/>
 </div>
 
 ---
