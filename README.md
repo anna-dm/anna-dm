@@ -15,9 +15,10 @@
 ```
 <hr>
 
-<div align="center">
+<div align="right">
   <img  align="left" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="300" height="300"/>
 </div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anna-dm&layout=compact&langs_count=10&theme=synthwave)](https://github.com/anna-dm/github-readme-stats)
 
 
  <div align="right" >
