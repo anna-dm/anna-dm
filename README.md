@@ -2,7 +2,7 @@
  ## I'm Anna Frolova😺 Nice to meet you👋
  ![](https://komarev.com/ghpvc/?username=anna-dm)
  
-   ### Contact with me
+   ## Contact with me 📱💻
 <a href="mailto:anna-anna-frolova@bk.ru"><img src="https://img.shields.io/badge/Gmail-323330?style=for-the-badge&logo=gmail&logoColor=white"></a> 
 <a href="https://t.me/anna_dmitrievna11"><img src="https://img.shields.io/badge/Telegram-323330?style=for-the-badge&logo=telegram&logoColor=white"></a> 
 <a href="https://www.instagram.com/anna_dmitrievna11/"><img src="https://img.shields.io/badge/Instagram-%23323330.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
