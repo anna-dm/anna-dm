@@ -1,5 +1,5 @@
  
- ## I'm Anna Frolova😺 Nice to meet you👋
+ ## I'm Anna Frolova😊 Nice to meet you👋
  ![](https://komarev.com/ghpvc/?username=anna-dm)
  
    ## Contact with me 📱💻
@@ -45,7 +45,7 @@
  
  <hr>
 
-  ## Thank you for visiting my profile
-# I'm really thankful for your unwavering support ⭐
+  # Thank you for visiting my profile 🙏
+I'm really thankful for your unwavering support ⭐
 
 <hr>
